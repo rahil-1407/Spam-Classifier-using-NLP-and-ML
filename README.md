@@ -1,3 +1,3 @@
 # Spam-Classifier-Using-NLP-and-ML
 
-![](logo.jpg)
+![](Demo%20Images/logo.jpg)
