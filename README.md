@@ -1,11 +1,11 @@
 <h1 align="center">
+   <br>
+  Spam Classifier
+  <br>
   <br>
   <a href="https://github.com/ShubhamPy/Spam-Classifier"><img src="https://github.com/rahil-1407/Spam-Classifier-using-NLP-and-ML/blob/main/Demo%20Images/logo.jpg" alt="SpamClassifier"></a>
-  <br>
-  SpamClassifier
-  <br>
 </h1>
-<h4 align="center">In this project I build a model for classifying the SMS/Email into spam or ham through the Machine Learning Algorithms and NLP Models.</h4>
+<h4 align="center">In this project I built a model for classifying the SMS/Email into spam or ham through the Machine Learning Algorithms and NLP Models.</h4>
 
 ## What It Does: 
 <p align="center">
